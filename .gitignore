@@ -1,0 +1,14 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Playwright
+test-results/
+playwright-report/
+playwright/.cache/
+blob-report/
+
+# OS / editor
+.DS_Store
+.vscode/
+*.log

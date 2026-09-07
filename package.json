@@ -1,0 +1,15 @@
+{
+  "name": "my-first-test",
+  "version": "1.0.0",
+  "description": "F.CSA313 Лаборатори №1 - Playwright UI автомат тест (saucedemo.com)",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:trace": "playwright test --trace on",
+    "report": "playwright show-report",
+    "codegen": "playwright codegen https://www.saucedemo.com"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.48.0"
+  }
+}
