@@ -5,6 +5,8 @@ npm-debug.log*
 # Playwright
 test-results/
 playwright-report/
+!docs/playwright-report/
+!docs/playwright-report/**
 playwright/.cache/
 blob-report/
 
