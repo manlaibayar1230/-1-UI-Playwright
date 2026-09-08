@@ -68,7 +68,7 @@ npx playwright show-trace test-results/**/trace.zip
    screenshot/log-оос хамаагүй дэлгэрэнгүй бөгөөд хурдан байсан.
 4. **Codegen** хэрэгсэл нь тест бичихэд эхлэл болж, шинэхэн хэрэглэгчид Playwright-ийн
    locator-ын синтаксыг хурдан танилцуулж чадсан; Selenium IDE ижил зорилготой ч
-   Playwright-ийн орчин үеийн locator (`getByRole` гэх мэт) руу шууд chuyển хийдэггүй.
+   Playwright-ийн орчин үеийн locator (`getByRole` гэх мэт) руу шууд хөрвүүлдэггүй
 5. Playwright анхнаасаа хэд хэдэн хөтчийг (Chromium, Firefox, WebKit) нэг API-аар удирддаг
    тул кросс-браузер тест бичихэд тохиргоо бага шаардсан.
 6. Selenium-ийн давуу тал нь: илүү удаан хугацаанд хэрэглэгдэж ирсэн тул баримтжуулалт,
