@@ -103,7 +103,7 @@ Playwright тест бүрд шинэ, цэвэр browser context (хоосон 
 ## Файлын бүтэц
 
 ```
-my-first-test/
+Lab1/
 ├── tests/
 │   └── login.spec.ts       # Үндсэн 4 тест
 ├── playwright.config.ts    # Тохиргоо (trace, screenshot, video)
